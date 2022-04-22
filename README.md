@@ -1,4 +1,6 @@
-### Olá, eu me chamo Jhonata Augusto!
+### Olá, eu sou Jhonata Augusto!
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -8,3 +10,12 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+<div align="center">
+  <a href="https://github.com/jhonataugusto">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhonataugusto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonataugusto&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+  
+  
