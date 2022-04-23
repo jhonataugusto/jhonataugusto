@@ -1,4 +1,4 @@
-# Hello, i'm Jhonata Augusto!
+# Hello! i'm Jhonata Augusto.
 
 
 - 🌱 I’m currently learning all topics of FullStack Development
